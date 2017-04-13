@@ -1,16 +1,94 @@
 body {
 	background-color: #efeee7;  
 	font-family: : "Georgia", "Times New Roman";
-	color: #333333;
-	margin: 0;
-	padding: 0;
+	color: #777777;
+	margin: auto;
+	overflow: none;
+	font-size: 18px;
+	font-family: 'Arial', 'Helvetica Neue',	Helvetica, sans-serif;
+	background-image: url("../images/ep_naturalwhite.png")
 }
 header{
-	color: #eee;
-	font-size: 28px;
-	background: #00ff00;
+	color: #777777;
+	font-size: 18px;
+	background: #ffffff;		
+	max-height: 80px;
+	width: 100%;
+	float: left;
+	margin-bottom: 30px;
+	border-color: #cccccc;
 }
 h1{
+	background: #4aaaa5;
+	font-size: 28px;
+	width: 15%;
+	padding: 20px;
+	text-align: center;
+	position: relative;
+	left:60px;
+	float: left;
+	color: #ffffff;
+	font-family: 'Georgia', Times,	Times New Roman, serif;
+
+}
+h2{
+	color: #4aaaa5;
+	font-size: 28px;
+	border-bottom: #dddddd;
+	padding: 20px;
+	font-family: 'Georgia', Times,	Times New Roman, serif;
+}
+h3{
+
+}
+.navigation{
+	position: relative;
+	left: 500px;
+	padding-top: 25px;
+	padding-bottom: 34px;
+	overflow: none;
+	width: 60%
+}
+
+.navigation a{
+	float: left;
+	text-decoration: none;
+	padding-left: 5px;
+	padding-right: 5px;
 	
+
+}
+
+.Main{
+	clear: both;
+	background: #ffffff;
+	border: #dddddd;
+	width: 650px;
+	margin-left: 60px;
+}
+
+.Connect{
+	clear: both;
+	background: #ffffff;
+	border: #dddddd;
+	width: 270px;
+	margin-left: 60px;
+}
+
+.profile{
+	float: left;
+}
+p{
+	margin-bottom: 10px;
+	line-height: 30px;
+}
+
+footer{
+	width: 100%;
+	text-align: center;
+	background-color: #666666;
+	padding-top: 30px;
+	padding-bottom: 34px;
+	border-top: 5px solid #4aaaa5;
 
 }
