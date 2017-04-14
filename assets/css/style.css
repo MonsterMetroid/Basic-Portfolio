@@ -53,6 +53,20 @@ h3{
 	margin-left: 20px;
 	margin-right: 20px;
 }
+
+h4{
+	background: #4aaaa5;
+	width: 270px;
+	font-size: 18px;
+	padding: 15px;
+	position: relative;	
+	top: -60px;
+	text-align: center;
+	color: #ffffff;
+	font-family: 'Georgia', Times,	Times New Roman, serif;
+
+}
+
 .navigation{
 	position: relative;
 	left: 500px;
@@ -67,9 +81,6 @@ h3{
 	text-decoration: none;
 	padding-left: 5px;
 	padding-right: 5px;
-
-	
-
 
 }
 
@@ -102,6 +113,17 @@ h3{
 .project{
 	padding: 10px;
 	float: left;
+}
+
+.sites{
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+}
+
+.sites a{
+	padding: 5px;
+	text-decoration: none;
 }
 
 p{
