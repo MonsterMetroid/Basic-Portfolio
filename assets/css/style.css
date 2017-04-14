@@ -126,11 +126,31 @@ h4{
 	text-decoration: none;
 }
 
+.Field{
+	margin-left: 20px;
+	padding-bottom: 10px;
+}
+
 p{
 	margin-bottom: 10px;
 	line-height: 30px;
 	margin-left: 20px;
 	margin-right: 20px;
+}
+
+textarea{
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+button{
+	padding: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	background: #4aaaa5;
+	font-size: 18px;
 }
 
 footer{
